@@ -6,3 +6,4 @@
 #### npx nx g @nrwl/remix:setup
 #### npx nx g @nrwl/remix:app client
 #### npx nx generate @nrwl/express:app server
+#### npx nx serve server
